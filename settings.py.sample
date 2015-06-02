@@ -1,0 +1,7 @@
+LP_PROJECT = "mos"
+LP_TAG = "horizon"
+
+TRELLO_BOARD = 'MOS Horizon'
+TRELLO_KEY = ""
+TRELLO_SECRET = ""
+TRELLO_TOKEN = ""
